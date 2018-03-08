@@ -1,0 +1,12 @@
+/laract/node_modules
+/laract/public/hot
+/laract/public/storage
+/laract/storage/*.key
+/laract/vendor
+/laract/.idea
+/laract/.vagrant
+laract/Homestead.json
+laract/Homestead.yaml
+laract/npm-debug.log
+laract/yarn-error.log
+laract/.env

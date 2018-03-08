@@ -1,0 +1,5 @@
+project_type: php
+test:
+  phpcs:
+    command: phpcs --standard=Framgia --report-checkstyle=.framgia-ci-reports/phpcs.xml app
+    
